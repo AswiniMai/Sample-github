@@ -1,4 +1,4 @@
 # Sample-github
 
-Hello all
+Hello all!
 This is the first program in github.
